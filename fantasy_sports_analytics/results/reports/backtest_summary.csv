@@ -1,0 +1,2 @@
+total_bets,wins,losses,hit_rate,roi_per_bet,assumed_odds,edge_threshold,prediction_source
+1431,887,544,61.98,18.33,-110,1.0,baseline_pred
